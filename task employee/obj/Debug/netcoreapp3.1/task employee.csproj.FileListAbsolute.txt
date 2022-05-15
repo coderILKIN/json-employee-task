@@ -1,0 +1,16 @@
+C:\Users\tu758403c\source\repos\task employee\task employee\bin\Debug\netcoreapp3.1\task employee.exe
+C:\Users\tu758403c\source\repos\task employee\task employee\bin\Debug\netcoreapp3.1\task employee.deps.json
+C:\Users\tu758403c\source\repos\task employee\task employee\bin\Debug\netcoreapp3.1\task employee.runtimeconfig.json
+C:\Users\tu758403c\source\repos\task employee\task employee\bin\Debug\netcoreapp3.1\task employee.runtimeconfig.dev.json
+C:\Users\tu758403c\source\repos\task employee\task employee\bin\Debug\netcoreapp3.1\task employee.dll
+C:\Users\tu758403c\source\repos\task employee\task employee\bin\Debug\netcoreapp3.1\task employee.pdb
+C:\Users\tu758403c\source\repos\task employee\task employee\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tu758403c\source\repos\task employee\task employee\obj\Debug\netcoreapp3.1\task employee.csproj.AssemblyReference.cache
+C:\Users\tu758403c\source\repos\task employee\task employee\obj\Debug\netcoreapp3.1\task employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu758403c\source\repos\task employee\task employee\obj\Debug\netcoreapp3.1\task employee.AssemblyInfoInputs.cache
+C:\Users\tu758403c\source\repos\task employee\task employee\obj\Debug\netcoreapp3.1\task employee.AssemblyInfo.cs
+C:\Users\tu758403c\source\repos\task employee\task employee\obj\Debug\netcoreapp3.1\task employee.csproj.CoreCompileInputs.cache
+C:\Users\tu758403c\source\repos\task employee\task employee\obj\Debug\netcoreapp3.1\task employee.csproj.CopyComplete
+C:\Users\tu758403c\source\repos\task employee\task employee\obj\Debug\netcoreapp3.1\task employee.dll
+C:\Users\tu758403c\source\repos\task employee\task employee\obj\Debug\netcoreapp3.1\task employee.pdb
+C:\Users\tu758403c\source\repos\task employee\task employee\obj\Debug\netcoreapp3.1\task employee.genruntimeconfig.cache
